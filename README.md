@@ -1,2 +1,4 @@
 # thing_one_two
-Tokenized crypto algo agents
+T1&T2 Tokenized crypto algo agents strategy testing 
+AAA- Autonomous AI Agents- test cdp wallets and test hold indicator and paper session trades
+introduce "Slot Bot"
